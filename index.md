@@ -1,5 +1,5 @@
 
-                                 <b>INDEX OF IMAGE PROCESSING PROGRAMS PYTHON</b>
+<b>INDEX OF IMAGE PROCESSING PROGRAMS PYTHON</b>
 
 ----------------------------------------------------------------------------------------------------------------
                                     Face Compare with two photos
